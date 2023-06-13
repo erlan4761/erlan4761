@@ -29,8 +29,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-![codewars](https://www.codewars.com/users/erlan4761/badges/large)](https://www.codewars.com/users/erlan4761)
-
 <a href="https://www.codewars.com/users/erlan4761">![codewars](https://www.codewars.com/users/erlan4761/badges/large)</a>
 
 ### Badges
