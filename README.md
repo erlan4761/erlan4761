@@ -29,12 +29,9 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
+![codewars](https://www.codewars.com/users/erlan4761/badges/large)](https://www.codewars.com/users/erlan4761)
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/erlan4761" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/erlan.anarbaevi4/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/erlan.developer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-![codewars](https://www.codewars.com/users/erlan4761/badges/large)](https://www.codewars.com/users/erlan4761) 
+<a href="https://www.codewars.com/users/erlan4761">![codewars](https://www.codewars.com/users/erlan4761/badges/large)</a>
 
 ### Badges
 
